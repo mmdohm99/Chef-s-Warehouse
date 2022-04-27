@@ -1,0 +1,1 @@
+just run the front-end with npm start and the back-end will run automatically .
